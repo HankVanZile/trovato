@@ -8,3 +8,6 @@ target/
 docs/
 _bmad-output/
 .pre-commit-config.yaml
+backups/
+uploads/
+node_modules/
